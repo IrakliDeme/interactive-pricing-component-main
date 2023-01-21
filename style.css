@@ -25,6 +25,9 @@ color:  #848EAD;
 margin-bottom: 50px;
 white-space: pre;
 }
+.range-div{
+    margin-top:10px;
+}
 
 .trafic-based{
     display: flex;
